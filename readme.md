@@ -2,7 +2,7 @@
 
 Kashish Singh | Dec 2024
 
-'''javascript
+```javascript
 console.log('Hello World');
 
-'''
+```
